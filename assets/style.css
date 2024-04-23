@@ -1,7 +1,7 @@
 .mdbook-alerts {
   padding: 8px 16px;
   margin-bottom: 16px;
-  border-left: 0.25em solid var(--mdbook-alerts-color);
+  border-left: 0.1em solid var(--mdbook-alerts-color);
 }
 
 .mdbook-alerts > *:first-child {
@@ -14,7 +14,7 @@
 
 .mdbook-alerts-title {
   display: flex;
-  font-weight: 600;
+  font-weight: 400;
   align-items: center;
   line-height: 1;
   color: var(--mdbook-alerts-color);
