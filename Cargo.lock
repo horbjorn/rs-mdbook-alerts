@@ -107,6 +107,7 @@ dependencies = [
 name = "anyhow"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 version = "1.0.91"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "c042108f3ed77fd83760a5fd79b53be043192bb3b9dba91d8c574c0ada7850c8"
@@ -120,6 +121,11 @@ version = "1.0.85"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "27a4bd113ab6da4cd0f521068a6e2ee1065eab54107266a11835d02c8ec86a37"
 >>>>>>> 94f2caa (Update dependencies)
+=======
+version = "1.0.89"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "86fdf8605db99b54d3cd748a44c6d04df638eb5dafb219b135d0149bd0db01f6"
+>>>>>>> 4c03690 (updated dependencies)
 
 [[package]]
 name = "autocfg"
@@ -228,6 +234,7 @@ dependencies = [
 [[package]]
 name = "clap"
 <<<<<<< HEAD
+<<<<<<< HEAD
 version = "4.5.20"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "b97f376d85a664d5837dbae44bf546e6477a679ff6610010f17276f686d867e8"
@@ -236,6 +243,11 @@ version = "4.5.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "90bc066a67923782aa8515dbaea16946c5bcc5addbd668bb80af688e53e548a0"
 >>>>>>> 8cda2d3 (chore bump dependencies)
+=======
+version = "4.5.20"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "b97f376d85a664d5837dbae44bf546e6477a679ff6610010f17276f686d867e8"
+>>>>>>> 4c03690 (updated dependencies)
 dependencies = [
  "clap_builder",
  "clap_derive",
@@ -243,6 +255,7 @@ dependencies = [
 
 [[package]]
 name = "clap_builder"
+<<<<<<< HEAD
 <<<<<<< HEAD
 version = "4.5.20"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -252,6 +265,11 @@ version = "4.5.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "ae129e2e766ae0ec03484e609954119f123cc1fe650337e155d03b022f24f7b4"
 >>>>>>> 8cda2d3 (chore bump dependencies)
+=======
+version = "4.5.20"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "19bc80abd44e4bed93ca373a0704ccbd1b710dc5749406201bb018272808dc54"
+>>>>>>> 4c03690 (updated dependencies)
 dependencies = [
  "anstream",
  "anstyle",
@@ -272,6 +290,7 @@ dependencies = [
 [[package]]
 name = "clap_derive"
 <<<<<<< HEAD
+<<<<<<< HEAD
 version = "4.5.18"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "4ac6a0c7b1a9e9a5186361f67dfa1b88213572f427fb9ab038efb2bd8c582dab"
@@ -280,6 +299,11 @@ version = "4.5.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "528131438037fd55894f62d6e9f068b8f45ac57ffa77517819645d10aed04f64"
 >>>>>>> 8cda2d3 (chore bump dependencies)
+=======
+version = "4.5.18"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "4ac6a0c7b1a9e9a5186361f67dfa1b88213572f427fb9ab038efb2bd8c582dab"
+>>>>>>> 4c03690 (updated dependencies)
 dependencies = [
  "heck",
  "proc-macro2",
@@ -1448,6 +1472,7 @@ dependencies = [
 [[package]]
 name = "regex"
 <<<<<<< HEAD
+<<<<<<< HEAD
 version = "1.11.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "38200e5ee88914975b69f657f0801b6f6dccafd44fd9326302a4aaeecfacb1d8"
@@ -1456,6 +1481,11 @@ version = "1.10.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "c117dbdfde9c8308975b6a18d71f3f385c89461f7b3fb054288ecf2a2058ba4c"
 >>>>>>> 8cda2d3 (chore bump dependencies)
+=======
+version = "1.11.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "38200e5ee88914975b69f657f0801b6f6dccafd44fd9326302a4aaeecfacb1d8"
+>>>>>>> 4c03690 (updated dependencies)
 dependencies = [
  "aho-corasick",
  "memchr",
@@ -1483,6 +1513,7 @@ checksum = "2b15c43186be67a4fd63bee50d0303afffcef381492ebe2c5d87f324e1b8815c"
 [[package]]
 name = "rust-embed"
 <<<<<<< HEAD
+<<<<<<< HEAD
 version = "8.5.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "fa66af4a4fdd5e7ebc276f115e895611a34739a9c1c01028383d612d550953c0"
@@ -1491,6 +1522,11 @@ version = "8.4.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "19549741604902eb99a7ed0ee177a0663ee1eda51a29f71401f166e47e77806a"
 >>>>>>> 94f2caa (Update dependencies)
+=======
+version = "8.5.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "fa66af4a4fdd5e7ebc276f115e895611a34739a9c1c01028383d612d550953c0"
+>>>>>>> 4c03690 (updated dependencies)
 dependencies = [
  "rust-embed-impl",
  "rust-embed-utils",
@@ -1588,6 +1624,7 @@ checksum = "61697e0a1c7e512e84a621326239844a24d8207b4669b41bc18b32ea5cbf988b"
 name = "serde"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 version = "1.0.213"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "3ea7893ff5e2466df8d720bb615088341b295f849602c6956047f8f80f0e9bc1"
@@ -1601,12 +1638,18 @@ version = "1.0.202"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "226b61a0d411b2ba5ff6d7f73a476ac4f8bb900373459cd00fab8512828ba395"
 >>>>>>> 94f2caa (Update dependencies)
+=======
+version = "1.0.210"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "c8e3592472072e6e22e0a54d5904d9febf8508f65fb8552499a1abc7d1078c3a"
+>>>>>>> 4c03690 (updated dependencies)
 dependencies = [
  "serde_derive",
 ]
 
 [[package]]
 name = "serde_derive"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 version = "1.0.213"
@@ -1622,6 +1665,11 @@ version = "1.0.202"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "6048858004bcff69094cd972ed40a32500f153bd3be9f716b2eed2e8217c4838"
 >>>>>>> 94f2caa (Update dependencies)
+=======
+version = "1.0.210"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "243902eda00fad750862fc144cea25caca5e20d615af0a81bee94ca738f1df1f"
+>>>>>>> 4c03690 (updated dependencies)
 dependencies = [
  "proc-macro2",
  "quote",
@@ -1631,6 +1679,7 @@ dependencies = [
 [[package]]
 name = "serde_json"
 <<<<<<< HEAD
+<<<<<<< HEAD
 version = "1.0.132"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "d726bfaff4b320266d395898905d0eba0345aae23b54aee3a737e260fd46db03"
@@ -1639,6 +1688,11 @@ version = "1.0.117"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "455182ea6142b14f93f4bc5320a2b31c1f266b66a4a5c858b013302a5d8cbfc3"
 >>>>>>> 94f2caa (Update dependencies)
+=======
+version = "1.0.128"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "6ff5456707a1de34e7e37f2a6fd3d3f808c318259cbd01ab6377795054b483d8"
+>>>>>>> 4c03690 (updated dependencies)
 dependencies = [
  "itoa",
  "memchr",
@@ -2333,6 +2387,7 @@ name = "windows_x86_64_msvc"
 version = "0.52.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "589f6da84c646204747d1270a2a5661ea66ed1cced2631d546fdfb155959f9ec"
+<<<<<<< HEAD
 
 [[package]]
 name = "zerocopy"
@@ -2354,3 +2409,5 @@ dependencies = [
  "quote",
  "syn",
 ]
+=======
+>>>>>>> 4c03690 (updated dependencies)
