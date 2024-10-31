@@ -32,6 +32,27 @@ into
 
 [mdBook]: https://github.com/rust-lang/mdBook
 
+Svensk version:
+
+```markdown
+> [!NOTERA]  
+> Detta är den svenska versionen.  
+
+> [!TIPS]
+> Använd den engelska versionen ovan som har en aktiv utvecklare..
+
+> [!VIKTIGT]  
+> ..då denna forken är ett test..
+
+> [!VARNING]  
+> ..bara som en varning..
+
+> [!FARA]
+> ..då denna forken kan raderas.  
+```
+
+![Rendered example](https://github.com/horbjorn/rs-mdbook-alerts/blob/main/example/screenshot.png?raw=true)  
+
 ## Usage
 
 First, install the preprocessor:
