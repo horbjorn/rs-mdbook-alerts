@@ -50,6 +50,7 @@ Svensk version:
 > [!FARA]
 > ..då denna forken kan raderas.  
 ```
+
 Som ser ut så här:
 
 ![screenshot](https://github.com/user-attachments/assets/97b6c934-d2f9-4f0b-882c-45f3ecf9a9cb)
