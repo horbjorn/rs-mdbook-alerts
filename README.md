@@ -50,8 +50,7 @@ Svensk version:
 > [!FARA]
 > ..då denna forken kan raderas.  
 ```
-
-![Rendered example](https://github.com/horbjorn/rs-mdbook-alerts/blob/example/screenshot.png?raw=true)  
+![screenshot](https://github.com/user-attachments/assets/25383fb0-de36-42ae-8a70-0310c6a729b5)
 
 ## Usage
 
