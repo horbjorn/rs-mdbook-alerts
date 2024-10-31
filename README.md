@@ -51,7 +51,8 @@ Svensk version:
 > ..då denna forken kan raderas.  
 ```
 
-![Rendered example](https://github.com/horbjorn/rs-mdbook-alerts/blob/main/example/screenshot.png?raw=true)  
+![Rendered example](https://github.com/horbjorn/rs-mdbook-alerts/blob
+/main/example/screenshot.png?raw=true)  
 
 ## Usage
 
