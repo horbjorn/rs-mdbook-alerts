@@ -32,7 +32,7 @@ into
 
 [mdBook]: https://github.com/rust-lang/mdBook
 
-En modifierad version också har svenska ord.
+En modifierad version som också har svenska ord.
 
 ```markdown
 > [!NOTERA]  
