@@ -32,7 +32,7 @@ into
 
 [mdBook]: https://github.com/rust-lang/mdBook
 
-Svensk version:
+En modifierad version med som också har svenska ord.
 
 ```markdown
 > [!NOTERA]  
@@ -51,7 +51,7 @@ Svensk version:
 > ..då denna forken kan raderas.  
 ```
 
-Som ser ut så här:
+.. och ser ut så här:
 
 ![Swedish edition](https://github.com/horbjorn/rs-mdbook-alerts/blob/main/example/screenshot.png)
 
