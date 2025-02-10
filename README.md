@@ -58,7 +58,7 @@ Använd > [!QUESTION] för engelsk version.
 
 ![Swedish edition](https://github.com/horbjorn/rs-mdbook-alerts/blob/main/example/screenshot.png)
 
-Använd > [!QUESTION] för engelsk version.
+En gör det själv version. Ladda ner och kompilera.
 
 ## Usage
 
