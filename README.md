@@ -49,11 +49,16 @@ En modifierad version som också har svenska ord.
 
 > [!FARA]
 > ..då denna forken kan raderas.  
+
+> [!FUNDERING]
+> Är det rätt ord?  
 ```
 
-.. och ser ut så här:
+Använd > [!QUESTION] för engelsk version.
 
 ![Swedish edition](https://github.com/horbjorn/rs-mdbook-alerts/blob/main/example/screenshot.png)
+
+Använd > [!QUESTION] för engelsk version.
 
 ## Usage
 
