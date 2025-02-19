@@ -59,30 +59,3 @@ Använd > [!QUESTION] för engelsk version.
 ![Swedish edition](https://github.com/horbjorn/rs-mdbook-alerts/blob/main/example/screenshot.png)
 
 En gör det själv version. Ladda ner och kompilera.
-
-## Usage
-
-First, install the preprocessor:
-
-```bash
-cargo install mdbook-alerts
-```
-
-Then, add the preprocessor to your `book.toml`:
-
-```toml
-[book]
-authors = ["Alisue"]
-language = "en"
-multilingual = false
-src = "src"
-title = "mdBook Alerts preprocessor"
-
-# ADD THIS
-[preprocessor.alerts]
-```
-
-## License
-
-The code follows the MIT license written in [LICENSE](./LICENSE). Contributors
-need to agree that any modifications sent to this repository follow the license.
